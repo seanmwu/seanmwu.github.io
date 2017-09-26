@@ -35,10 +35,10 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-#t witter: mytwitter
+#twitter: mytwitter
 linkedin: seanmwu
 medium: Advanced Aerodynamics Research Group
-#github: seanmwu
+github: seanmwu
 #google: seanwu.ortega
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -59,7 +59,7 @@ authors:
         bio: Pilot. Sailor. Aerospace Engineer.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        
 
 # do you want a larger site? change the option below
 #options: [normal, large] #| default: large
