@@ -17,7 +17,7 @@ layout: page
 <br>
 <p><b>My professional interests are a reflection of my personal hobbies</b></p>
 
-<p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Most recently, I obtained a Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.
+<p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Recently, I obtained a Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.
 
 <p><img src="{{ site.url }}/assets/images/1-26.jpg" alt="alt" />
 <figcaption class="caption">Flying a Schweizer 1-26 near Mt. Diablo</figcaption></p>
