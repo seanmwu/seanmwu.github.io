@@ -8,7 +8,7 @@ layout: page
 
 
 <p>As a member of Professor C.P. van Dam’s Applied Aerodynamics Research Group, I developed competence in: computational and experimental aerodynamics, aircraft design, and optimization. Additionally, I gained experience advising undergraduate researchers and student design teams, as well as team managerial experience leading a radiosondes field research team. Currently, I manage the
-<a href="https://flight.engr.ucdavis.edu/facilities/"> UC Davis Aeronautical Wind Tunnel</a>.
+<a href="https://flight.engr.ucdavis.edu/facilities/" target="_blank"> UC Davis Aeronautical Wind Tunnel</a>.
 
 <p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team" /></p>
 <figcaption class="caption">Photo with a senior design team</figcaption></p>
