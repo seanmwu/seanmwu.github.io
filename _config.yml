@@ -37,8 +37,8 @@ disqus:
 # facebook: myfacebook
 #twitter: mytwitter
 linkedin: seanmwu
-medium: Advanced Aerodynamics Research Group
-#github: seanmwu
+#medium: Advanced Aerodynamics Research Group
+github: Advanced Aerodynamics Research Group
 #google: seanwu.ortega
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -59,7 +59,7 @@ authors:
         bio: Pilot. Sailor. Aerospace Engineer.
         external-image: false
         picture: assets/images/profile.jpg
-        
+
 
 # do you want a larger site? change the option below
 #options: [normal, large] #| default: large
