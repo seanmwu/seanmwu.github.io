@@ -25,8 +25,8 @@ layout: page
 
 <br><p>At UC Davis, I apply my knowledge of aero-hydro dynamics as a club advisor, webmaster, and past V.P. of Equipment for the UC Davis Sailing Team.</p>
 
-<p><img src="{{ site.url }}/assets/images/laser.jpg" alt="Sailing a Laser"/>
-<figcaption class="caption">Tacking a Laser at Lake Washington, West Sacramento</figcaption></p>
+<p><img src="{{ site.url }}/assets/images/sunfish.jpg" alt="Sailing a Laser"/>
+<figcaption class="caption">Sailing a Sunfish at Lake Washington, West Sacramento</figcaption></p>
 
 <br><p>Every now and then, I enjoy getting away.</p>
 <p><img src="{{ site.url }}/assets/images/dome.jpg" alt="On top of Half Dome"/>
