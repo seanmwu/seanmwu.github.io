@@ -23,7 +23,7 @@ layout: page
 <figcaption class="caption">Flying a Schweizer 1-26 near Mt. Diablo</figcaption></p>
 
 
-<br><p>At UC Davis, I apply my knowledge of aero-hydro dynamics as a club advisor, webmaster, and past V.P. of Equipment for the UC Davis Sailing Team.</p>
+<br><p>At UC Davis, I apply my knowledge of aero-hydro dynamics as a club advisor, webmaster, and past V.P. of Equipment for the <a href="http://davissailingteam.com" target="_blank"> UC Davis Sailing Team.</a></p>
 
 <p><img src="{{ site.url }}/assets/images/sunfish.jpg" alt="Sailing a Laser"/>
 <figcaption class="caption">Sailing a Sunfish at Lake Washington, West Sacramento</figcaption></p>
