@@ -19,7 +19,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Recently, I obtained a Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.</p>
+        <p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Recently, I obtained a remote pilot certificate while serving as a grader for an undergraduate course on UAVs.</p>
     </div>
 
     <div class="toright">
