@@ -4,10 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p><b>I am a graduating Master’s student in aerospace engineering at the University of California, Davis.</b></p>
-
-
-<p>I'm a graduating master’s candidate (Dec. 2017) at UC Davis with emphasis in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</p>
+<p><b>I'm a graduating master’s candidate (Dec. 2017) at UC Davis with emphasis in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</b></p>
 
 <p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, led a radiosonde field team, and am currently defining a wind tunnel test for a multi-element airfoil with active flow control.
 
