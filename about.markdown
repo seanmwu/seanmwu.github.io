@@ -8,8 +8,9 @@ layout: page
 <br><b>I am a graduating Master’s student in aerospace engineering at the University of California, Davis.</b>
 
 
-<p>As a member of Professor C.P. van Dam’s Applied Aerodynamics Research Group, I developed competence in: computational and experimental aerodynamics, aircraft design, and optimization. Additionally, I gained experience advising undergraduate researchers and student design teams, as well as team managerial experience leading a radiosondes field research team. Currently, I manage the
-<a href="https://flight.engr.ucdavis.edu/facilities/" target="_blank"> UC Davis Aeronautical Wind Tunnel</a>.
+<p>I'm a graduating master’s candidate (Dec. 2017) at UC Davis with emphasis in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</p>
+
+<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, led a radiosonde field team, and am currently defining a wind tunnel test for a multi-element airfoil with active flow control. </a>.
 
 <br><p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team" width="60%"/></p>
 <figcaption class="caption">Photo with a senior design team</figcaption></p>
