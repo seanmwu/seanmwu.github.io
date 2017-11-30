@@ -10,7 +10,7 @@ layout: page
 
 <p>I'm a graduating master’s candidate (Dec. 2017) at UC Davis with emphasis in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</p>
 
-<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, led a radiosonde field team, and am currently defining a wind tunnel test for a multi-element airfoil with active flow control. </a>.
+<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, led a radiosonde field team, and am currently defining a wind tunnel test for a multi-element airfoil with active flow control.
 
 <br><p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team" width="60%"/></p>
 <figcaption class="caption">Photo with a senior design team</figcaption></p>
