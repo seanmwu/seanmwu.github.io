@@ -8,9 +8,11 @@ layout: page
 
 <p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, and led a 7-person radiosonde field team in the Mojave Desert.
   
-<p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team" /></p>
-<figcaption class="caption">Photo with a senior design team</figcaption></p>
+<p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team - high-commonality aerobatic light sport family" /></p>
+<figcaption class="caption">Photo with a senior design team - high-commonality aerobatic light sport family</figcaption></p>
 
+<p><img src="{{ site.url }}/assets/images/airbenders.jpg" alt="Group photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion" /></p>
+<figcaption class="caption">Photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion</figcaption></p>
 
 <br>
 <p><b>My professional interests are a reflection of my personal hobbies</b></p>
