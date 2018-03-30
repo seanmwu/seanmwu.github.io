@@ -11,6 +11,8 @@ layout: page
 <p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team - high-commonality aerobatic light sport family" /></p>
 <figcaption class="caption">Photo with a senior design team - high-commonality aerobatic light sport family</figcaption>
 
+<br/><br/>
+
 <p><img src="{{ site.url }}/assets/images/airbender.jpg" alt="Group photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion" /></p><figcaption class="caption">Photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion</figcaption></p>
 
 <br>
