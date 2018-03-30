@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p><b>I'm a graduating master’s candidate (Dec. 2017) at UC Davis with emphasis in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</b></p>
+<p><b>I'm a recent master’s graduate (Dec. 2017) from UC Davis with experience in aerodynamics, aircraft design and optimization; and a passion for advancing aeronautics.</b></p>
 
-<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, led a radiosonde field team, and am currently defining a wind tunnel test for a multi-element airfoil with active flow control.
-
+<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams, and led a 7-person radiosonde field team in the Mojave Desert.
+  
 <p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team" /></p>
 <figcaption class="caption">Photo with a senior design team</figcaption></p>
 
@@ -15,7 +15,7 @@ layout: page
 <br>
 <p><b>My professional interests are a reflection of my personal hobbies</b></p>
 
-<p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Recently, I obtained a Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.
+<p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Last summer, I obtained a Part 107 Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.
 
 <p><img src="{{ site.url }}/assets/images/1-26.jpg" alt="Schweizer 1-26 over Mt. Diablo" />
 <figcaption class="caption">Flying a Schweizer 1-26 near Mt. Diablo</figcaption></p>
