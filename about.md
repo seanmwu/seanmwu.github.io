@@ -16,7 +16,7 @@ layout: page
 <p><img src="{{ site.url }}/assets/images/airbender.jpg" alt="Group photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion" /></p><figcaption class="caption">Photo with a senior design team - distributed-electric airliner with fuselage boundary-layer ingestion</figcaption></p>
 
 <br>
-<p><b>My professional interests are a reflection of my personal hobbies</b></p>
+<p><b>My professional interests reflect my personal hobbies</b></p>
 
 <p>I am an avid aviation enthusiast. I began flying when I was 14, have a private pilot certificate with ratings for single-engine airplanes and gliders, and am building a kit-built, Van's RV-12 airplane as a family hobby project. Last summer, I obtained a Part 107 Remote Pilot certificate while serving as a grader for an undergraduate course on UAVs.
 
