@@ -6,7 +6,7 @@ layout: page
 
 <p><b>I'm a recent master’s graduate (Dec. 2017) from UC Davis with experience in aerodynamics, aircraft design and optimization.</b></p>
 
-<p>At Davis, I managed the aeronautical wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams and led a 7-person radiosonde field team in the Mojave Desert.
+<p>At Davis, I managed a 3'x4' low-speed wind tunnel, mentored 6 undergraduate researchers, advised 11 student capstone design teams and led a 7-person radiosonde field team in the Mojave Desert.
   
 <p><img src="{{ site.url }}/assets/images/group.jpg" alt="Group photo with a senior design team - high-commonality aerobatic light sport family" /></p>
 <figcaption class="caption">Photo with a senior design team - high-commonality aerobatic light sport family</figcaption>
